@@ -1,5 +1,8 @@
 ## Introduction
-This is a simple tools created by VB6.0 which can create multi folders with a list file
+This is a simple tool created by Visual Basic 6.0 which can create multi folders with a list file.
+
+## Notice
+As Visual Basic 6.0 is really old, the new windows operating system may lack VB6 runtime and VB6 common controls, that means user who want run this software on new system need find the runtime and controls manually.
 
 ## Usage
 Download Text2Folders.exe in releaese, run it
